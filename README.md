@@ -3,6 +3,7 @@
 - lpython
 - codon
 - pypy
+- cpython
 
 compiler
 - nuitka
