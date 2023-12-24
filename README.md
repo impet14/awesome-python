@@ -10,3 +10,7 @@ compiler
 - nuitka
 - pyinstaller
 - cython
+
+lib
+- asyncio
+  
