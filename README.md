@@ -4,6 +4,7 @@
 - codon
 - pypy
 - cpython
+- numba
 
 compiler
 - nuitka
