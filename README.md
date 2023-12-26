@@ -5,6 +5,7 @@
 - pypy
 - cpython
 - numba
+- nim
 
 compiler
 - nuitka
